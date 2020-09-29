@@ -1,2 +1,2 @@
 # TodoList-React
-Demonstrates a totlist application using ReactJS framework
+Demonstrates a todolist application using ReactJS framework
